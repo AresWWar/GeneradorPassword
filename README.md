@@ -10,9 +10,28 @@ Generar contraseñas seguras es fundamental para proteger la información person
 ![Diagrama de Flujo](diagrama/diagrama_de_flujo.jpeg)
 
 ---
+---
+**Diagrama de Caso de Uso**
+
+![Diagrama de Caso de Uso](diagrama/diagrama_caso_uso.png)
+
+---
+---
+**Diagrama de Caso de Arquitectura**
+
+![Diagrama de Arquitectura](diagrama/diagrama_arquitectura.png)
+
+---
 ## Cómo ejecutar el proyecto
 
 Asegúrate de tener Python instalado. Luego, ejecuta el siguiente comando en la terminal:
 
 ```bash
 python main.py
+
+---
+**Como se ejecuta el sistema por consola**
+
+![Ejecucion Software](diagrama/ejecucion_software.png)
+
+---
