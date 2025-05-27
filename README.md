@@ -28,7 +28,7 @@ Asegúrate de tener Python instalado. Luego, ejecuta el siguiente comando en la 
 
 ```bash
 python main.py
-
+```
 ---
 **Como se ejecuta el sistema por consola**
 
