@@ -8,7 +8,9 @@ from utils import obtener_opcion_booleana, obtener_entero
 def main():
 
     # Muestra un encabezado en consola
-    print("🔐 GENERADOR DE CONTRASEÑAS PERSONALIZADO 🔐")
+    print(f"\n-------------------------------------------\n")
+    print("  🔐 GENERADOR DE CONTRASEÑAS 🔐")
+    print(f"\n-------------------------------------------")
 
     # Solicita al usuario la longitud deseada para la contraseña
     longitud = obtener_entero("Longitud de la contraseña: ")
@@ -59,10 +61,13 @@ def main():
             incluir_mayusculas=incluir_mayusculas
         )
         # Muestra la contraseña generada si no hubo errores
+        print(f"\n")
         print(f"\n✅ Contraseña generada: {contraseña}")
+        print(f"\n--------------------------------------")
     except ValueError as e:
         # Captura errores como: longitud insuficiente o falta de tipos seleccionados
         print(f"\n❌ No se puede generar la contraseña: {e}")
+        print(f"\n--------------------------------------")
 
 if __name__ == "__main__":
     main()

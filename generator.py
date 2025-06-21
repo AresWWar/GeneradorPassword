@@ -36,7 +36,7 @@ def generar_contraseña(longitud, incluir_numeros, incluir_simbolos, incluir_min
 
     # Verifica que al menos se haya seleccionado un tipo de carácter
     if not caracteres_disponibles:
-        raise ValueError("⚠️ No se seleccionaron tipos de caracteres válidos.")
+        raise ValueError(" ⚠️ No se seleccionaron tipos de caracteres válidos.")
 
     # Verifica que la longitud sea suficiente para contener todos los obligatorios
     if longitud < len(obligatorios):
