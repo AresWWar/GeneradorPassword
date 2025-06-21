@@ -11,31 +11,31 @@ En la era digital, muchas personas usan contraseñas débiles, repetidas o prede
     2.Ofrece personalización para adaptarse a requisitos específicos
     3.Evita errores comunes en la creación manual
     4.Es rápido, autónomo y fácil de usar
-    5. Fomenta buenas prácticas de ciberseguridad
+    5.Fomenta buenas prácticas de ciberseguridad
 ## Conclusion:
 Este sistema automatiza la creación de contraseñas seguras, adaptables y confiables, reduciendo los riesgos de seguridad derivados del mal manejo de claves de acceso
 ---
 **Video Demostrativo**
 
-[▶️ Reproducir Video](recursos/video_explicativo.mp4)
+[▶️ Reproducir Video](diagramas/video_explicativo.mp4)
 ---
 
 ---
 **Diagrama de Flujo**
 
-![Diagrama de Flujo](recursos/diagrama_flujo.jpg)
+![Diagrama de Flujo](diagramas/diagrama_flujo.jpg)
 
 ---
 ---
 **Diagrama de Caso de Uso**
 
-![Diagrama de Caso de Uso](recursos/diagrama_caso_uso.png)
+![Diagrama de Caso de Uso](diagramas/diagrama_caso_uso.png)
 
 ---
 ---
 **Diagrama de Caso de Arquitectura**
 
-![Diagrama de Arquitectura](recursos/diagrama_arquitectura.png)
+![Diagrama de Arquitectura](diagramas/diagrama_arquitectura.png)
 
 ---
 ## Cómo ejecutar el proyecto
@@ -48,6 +48,6 @@ python main.py
 ---
 **Como se ejecuta el sistema por consola**
 
-![Ejecucion Software](recursos/ejecucion_software.png)
+![Ejecucion Software](diagramas/ejecucion_software.png)
 
 ---
